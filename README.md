@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kazi Hasnayeen Emad</h1>
-<h3 align="center">An Undergrad from Green University of Bangladesh</h3>
+<h3 align="center">An Undergrad Student from Green University of Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziemad&label=Profile%20views&color=0e75b6&style=flat" alt="kaziemad" /> </p>
 
